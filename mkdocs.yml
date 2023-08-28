@@ -14,4 +14,9 @@ extra_css:
 plugins:
   - search
 
-repo_url: https://github.com/manulera/canto_tutorial
+repo_url: https://github.com/pombase/canto_tutorial
+site_url: https://pombase.github.io/canto_tutorial/
+edit_uri: edit/master/docs/
+
+extra:
+  generator: false
