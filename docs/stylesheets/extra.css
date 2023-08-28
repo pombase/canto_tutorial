@@ -5,3 +5,24 @@
     --md-accent-fg-color:                #337ab7;
     --md-accent-fg-color--transparent:   #3379b71c;
   }
+
+div.video-wrapper {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio (9 / 16 = 0.5625 or 56.25%) */
+    height: 0;
+    overflow: hidden;
+}
+
+div.video-wrapper iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.md-typeset ul li ul li {
+    list-style-type: square; 
+    margin-bottom: 0px;
+}
