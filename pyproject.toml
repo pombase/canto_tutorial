@@ -1,0 +1,10 @@
+[tool.poetry]
+authors = ["Manuel Lera Ramirez <manulera14@gmail.com>"]
+description = ""
+name = "canto_tutorial"
+version = "0.1.0"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+mkdocs = "^1.5.2"
+mkdocs-material = "^9.2.5"
