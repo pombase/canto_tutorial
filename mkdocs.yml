@@ -6,6 +6,8 @@ theme:
   favicon: assets/favicon.ico
   features:
     - navigation.instant
+    - content.action.edit
+
 
 
 extra_css:
@@ -20,3 +22,8 @@ edit_uri: edit/master/docs/
 
 extra:
   generator: false
+
+nav:
+  - Home: index.md
+  - Genes, alleles and genotypes: genes_alleles_genotypes.md
+  - Requesting to curate a paper: request_curation_session.md
