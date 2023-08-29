@@ -6,6 +6,13 @@
     --md-accent-fg-color--transparent:   #3379b71c;
   }
 
+div.video-sizer {
+  /* If we want centered video */
+  /* margin: 0 auto; */
+  max-width: 600px;
+  width: 100%;
+}
+
 div.video-wrapper {
     position: relative;
     width: 100%;
@@ -22,7 +29,25 @@ div.video-wrapper iframe {
   left: 0;
 }
 
+.md-typeset ul li {
+  margin-bottom: .25em;
+
+}
+
 .md-typeset ul li ul li {
     list-style-type: square; 
     margin-bottom: 0px;
+}
+
+.md-typeset h2 {
+    margin-top: .5em;
+    margin-bottom: .25em;
+}
+
+.md-typeset h1 {
+  margin-bottom: .5em;
+}
+
+.md-typeset ul li ul {
+    margin-top: 0px;
 }

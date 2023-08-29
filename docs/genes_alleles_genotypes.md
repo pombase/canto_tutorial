@@ -1,9 +1,14 @@
+---
+hide:
+  - toc
+---
 ## Video summary
 
-<div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/-cj_PdJi68A" frameborder="0" allowfullscreen></iframe>
+<div class="video-sizer">
+    <div class="video-wrapper">
+    <iframe src="https://www.youtube.com/embed/-cj_PdJi68A" frameborder="0" allowfullscreen></iframe>
+    </div>
 </div>
-
 ## Adding genes to a session
 
 The first thing you should do, is add blah
