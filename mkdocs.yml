@@ -5,7 +5,8 @@ theme:
   logo: assets/canto_logo.svg
   favicon: assets/favicon.ico
   features:
-    - navigation.instant
+    # This messed up the custom footer
+    # - navigation.instant
     - content.action.edit
     - navigation.expand
 
@@ -15,10 +16,15 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - md_in_html
+  - attr_list
+
 
 
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - javascript/did_you_know.js
 
 plugins:
   - search
@@ -32,8 +38,8 @@ extra:
 
 nav:
   - Home: index.md
-  - Genes, alleles and genotypes: genes_alleles_genotypes.md
   - How to annotate:
+    - Genotype management: genotype_management.md
     - GO Biological Process: go_BP.md
     - GO Cellular Component: go_CC.md
     - GO Molecular Function: go_MF.md
@@ -47,3 +53,5 @@ nav:
     - Introduction to annotation: intro_annotation.md
     - Requesting to curate a paper: request_curation_session.md
     - Productivity tricks: productivity.md
+    - Describing alleles: describing_alleles.md
+  - FAQs: faqs.md

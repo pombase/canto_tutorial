@@ -21,6 +21,7 @@ This site contains a step-by-step video and text guide for curating a paper usin
 * The tutorials in this page use Canto advanced mode, it can be activated as shown below:
 
     <img src="assets/activate_advanced_mode.png" alt="activating advanced mode by clicking on the top right gear icon">
+
 * If you are unfamiliar with what annotation means, and how ontology terms are used for this, visit our [brief intro to annotation](./intro_annotation.md).
 
 ## Creating annotations
