@@ -51,3 +51,8 @@ div.video-wrapper iframe {
 .md-typeset ul li ul {
     margin-top: 0px;
 }
+
+.md-typeset li details {
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
