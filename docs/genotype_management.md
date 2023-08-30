@@ -27,7 +27,7 @@ On the left side of the session page, click on `Genotype management`. This will 
 ### Creating single-locus genotypes
 
 * To create a genotype with a deletion allele, click on `Deletion`.
-* To create a genotype where the expression level of the wild-type allele is altered, click on `Other Genotype` and select `wild type` as `allele type`. Then select the expression level.
+* To create a genotype where the expression level of the wild-type allele is altered (e.g. overexpression), click on `Other Genotype` and select `wild type` as `allele type`. Then select the expression level.
 * For others, click on `Other Genotype`, then:
     * First, check if the allele you want to use already exist by writing its name on the `Allele name` text box. If you find it, click on it, and the allele details will be imported from PomBase.
     * Otherwise, create a new allele:
@@ -56,3 +56,5 @@ On the left side of the session page, click on `Genotype management`. This will 
     </div>
 * Click the button `Combine selected genotypes`.
 * You can also create diploid multi-locus genotypes by combining diploid single-locus genotypes.
+
+!!! question "These are just the basics, more info and edge cases can be found in the [FAQs](faqs.md#genotype-management)"
