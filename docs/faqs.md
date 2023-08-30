@@ -26,3 +26,16 @@ PomBase does not capture the difference between strains expressing an allele fro
 ### What if the wild-type copy is still present in a mutant strain?
 
 Multi-loci phenotype can be used to indicate that the wild-type allele is still present in a strain expressing an allele of that gene. For example, a strain that bears both the wild type _cdc25_ and the mutant allele _cdc25-22_. For this purpose, you can create a wild-type allele with expression level `Wild type product level`. See [Genotype management](./genotype_management.md)
+
+## Genetic interactions
+
+### How do I annotate positive or negative genetic interactions?
+
+Positive and negative interactions are only allowed by BioGrid for high-throughput studies, so they cannot be added in Canto.
+* If you want to submit a high-throughput dataset of genetic interactions, you can do so in [BioGrid](https://wiki.thebiogrid.org/doku.php/contribute), and it will appear in PomBase.
+* Otherwise, visit [PomBase genetic interaction documentation](https://www.pombase.org/documentation/genetic-and-physical-interactions), to find what type of genetic interaction fits your case.
+
+### How do I annotate a rescue?
+
+Rescues can correspond to different types of genetic interactions depending on the genotypes and phenotypes involved, visit [PomBase genetic interaction documentation](https://www.pombase.org/documentation/genetic-and-physical-interactions), to find what type of genetic interaction fits your case.
+

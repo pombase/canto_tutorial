@@ -36,9 +36,8 @@ To start a genetic interaction annotation, you need a multi-locus phenotype that
   * To create a new genetic interaction, click on `Add interaction...`.
       * Select the annotation type and click `OK`.
       * For some interactions, you will be asked to indicate the directionality
-      * Then, you may be asked to link the genetic interaction to the single-locus phenotype, do so by clicking on the white box on the right of the listed annotations.
+      * Then, you may be asked to link the genetic interaction to the single-locus phenotype, do so by clicking on the white box on the left of the listed annotations.
           <div markdown style="max-width: 400px">
             ![](assets/gi_pick_phenotype.png)
           </div>
       * If that is the case, and you have not annotated the single locus phenotype yet, you can do it directly from the Genetic Interaction interface by clicking on `Add phenotype ...`.
-
