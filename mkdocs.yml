@@ -40,15 +40,15 @@ nav:
   - Home: index.md
   - How to annotate:
     - Genotype management: genotype_management.md
-    - GO Biological Process: go_BP.md
-    - GO Cellular Component: go_CC.md
-    - GO Molecular Function: go_MF.md
     - Phenotypes: phenotypes.md
-    - Physical Interaction: physical_interaction.md
     - Genetic Interaction: genetic_interaction.md
+    - Physical Interaction: physical_interaction.md
     - Protein modification: protein_modification.md
     - Protein sequence feature/motif: protein_sequence_feature.md
     - RNA or protein level: rna_protein_level.md
+    - GO Molecular Function: go_MF.md
+    - GO Biological Process: go_BP.md
+    - GO Cellular Component: go_CC.md
   - Other:
     - Introduction to annotation: intro_annotation.md
     - Requesting to curate a paper: request_curation_session.md

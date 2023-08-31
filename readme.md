@@ -4,6 +4,8 @@ A static site with canto documentation for users to get started with Canto. The 
 
 ## Run locally
 
+For Val, if you have not added poetry to the path, use `.local/bin/poetry` instead of poetry.
+
 ### Install dependencies
 
 To install the dependencies, we used poetry (see [poetry installation instructions](https://python-poetry.org/docs/)). In the source directory run:

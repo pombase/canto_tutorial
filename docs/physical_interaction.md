@@ -11,6 +11,7 @@ To create a physical interaction, on the `Quick Links` list, click on `Physical 
 
 * The two genes that show the physical interaction in `Gene` and `Interacting Gene`.
 * The `Interaction type` (the type of experiment that supports the physical interaction).
+* In the `Comment`, it's very useful for us if you indicate the figure or table where this interaction comes from.
 
 When making an annotation consider that:
 
@@ -25,4 +26,4 @@ When making an annotation consider that:
     * For `binds to peptide`, `Gene` should be the protein that can bind to a peptide from the `Interacting Gene`.
     * For `binds to RNA`, `Gene` should be the protein that can bind to the RNA of the `Interacting Gene`.
 * If you perform asymmetric experiments both ways (A affinity-captures B and B affinity-captures A), you should include two physical interaction annotations.
-* It can be laborious to 
+* If you have to add many interactions, there are ways to do this quickly, see our [productivity page](./productivity.md#transferring-physical-interactions).
