@@ -9,9 +9,9 @@ hide:
 
 To create a physical interaction, on the `Quick Links` list, click on `Physical Interaction` to open a window that requires you to indicate:
 
-* The two genes that show the physical interaction in `Gene` and `Interacting Gene`.
-* The `Interaction type` (the type of experiment that supports the physical interaction).
-* In the `Comment`, it's very useful for us if you indicate the figure or table where this interaction comes from.
+* **Gene and Interacting gene:** The two genes that show the physical interaction. See [how to add genes](./genotype_management.md#adding-genes-info)
+* **Interaction type**: the type of experiment that supports the physical interaction.
+* **Comment:** it's very useful for us if you indicate the figure or table where this interaction comes from.
 
 When making an annotation consider that:
 

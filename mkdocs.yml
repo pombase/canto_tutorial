@@ -28,6 +28,7 @@ extra_javascript:
 
 plugins:
   - search
+  - macros
 
 repo_url: https://github.com/pombase/canto_tutorial
 site_url: https://pombase.github.io/canto_tutorial/
@@ -45,7 +46,7 @@ nav:
     - Physical Interaction: physical_interaction.md
     - Protein modification: protein_modification.md
     - Protein sequence feature/motif: protein_sequence_feature.md
-    - RNA or protein level: rna_protein_level.md
+    - Wild-type RNA or protein level: rna_protein_level.md
     - GO Molecular Function: go_MF.md
     - GO Biological Process: go_BP.md
     - GO Cellular Component: go_CC.md

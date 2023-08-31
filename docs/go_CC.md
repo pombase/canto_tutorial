@@ -3,7 +3,8 @@ hide:
   - toc
 ---
 
-!!! warning "Not all colocalisation or pull-down experiments can support a cellular component annotation. See the [evidence required to make an annotation](#evidence-required)"
+<!-- Syntax to include an external file here -->
+{% include 'go_disclaimer.md' %}
 
 ## Video summary
 

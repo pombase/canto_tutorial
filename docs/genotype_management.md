@@ -4,6 +4,7 @@ hide:
 ---
 
 ??? info "Did you forget to add genes to the session or you want to remove some?"
+    <div id="adding-genes-info"></div>
     In the main menu, click on `Edit gene list` on the right side of the interface.
 
       * To remove genes, tick the boxes on the right, then click `Remove selected`. You can only delete genes that have not been used for annotations.
