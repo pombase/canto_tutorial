@@ -21,7 +21,7 @@ Historically, `Wild type product level` and `Not assayed` have been used interch
 
 ### What to do when control strains over-express the wild-type allele, or express it from a plasmid?
 
-PomBase does not capture the difference between strains expressing an allele from a plasmid or the native locus in phenotype annotations.  Similarly, we do not have a way to capture the fact that the control of an experiments is over-expressing the wild-type allele. Therefore, if both the wild-type (control) and mutant allele are over-expressed / knocked-down, ???. See [Genotype management](./genotype_management.md)
+PomBase does not capture the difference between strains expressing an allele from a plasmid or the native locus in phenotype annotations.  Similarly, we do not have a way to capture the fact that the control of an experiments is over-expressing the wild-type allele. Therefore, if both the wild-type (control) and mutant allele are over-expressed / knocked-down, the meaning in `Expression` is ambiguous. If you think the expression level plays a role in producing the phenotype, select `Overexpression` or `Knockdown`. Otherwise, select `Not assayed`. See [Genotype management](./genotype_management.md)
 
 ### What if the wild-type copy is still present in a mutant strain?
 
@@ -39,3 +39,8 @@ Positive and negative interactions are only allowed by BioGrid for high-throughp
 
 Rescues can correspond to different types of genetic interactions depending on the genotypes and phenotypes involved, visit [PomBase genetic interaction documentation](https://www.pombase.org/documentation/genetic-and-physical-interactions), to find what type of genetic interaction fits your case.
 
+## Physical interactions
+
+### Does the order of genes in physical interaction matters.
+
+In most cases, it does. Visit the [physical interaction page](./physical_interaction.md)
