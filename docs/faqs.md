@@ -44,3 +44,9 @@ Rescues can correspond to different types of genetic interactions depending on t
 ### Does the order of genes in physical interaction matters.
 
 In most cases, it does. Visit the [physical interaction page](./physical_interaction.md)
+
+## Other
+
+### Can I submit high-throughput datasets?
+
+Yes, but not through Canto. See [PomBase Data Submission](https://www.pombase.org/submit-data).
