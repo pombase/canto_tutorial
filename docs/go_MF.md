@@ -50,6 +50,7 @@ On the `Quick Links` list, click on `GO molecular function` to open a window tha
         * `happens during` to indicate that the function occurs during a cell cycle phase or cellular response to stimulus.
     * **Links to a cellular component:** `physical location` to indicate that the function occurs at a specific location or protein complex.
     * **Links to sequence ontology terms**: to indicate the type of transcript or DNA regions a gene product binds to.
+    * **Modified form:** sometimes, only a certain modified form of the gene product (e.g. phosphorylated) exhibits the activity. This is very valuable information, but requires a PR ontology term to exist for the modified version of the protein, which is rare. You can include this information in the comment section (e.g. write: "phosphorylated form").
     * You can make several annotations with the same molecular function and gene, with different extensions:
         * To link it to several gene products (e.g. different substrates of a kinase).
         * To indicate that a gene kinase activity  phosphorylates a protein inside the nucleus during mitosis, and a different one in the cytoplasm during interphase.

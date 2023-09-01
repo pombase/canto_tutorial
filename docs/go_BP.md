@@ -23,7 +23,7 @@ On the `Quick Links` list, click on `GO biological process` to open a window tha
 
 * **Gene:** the gene that participates in a biological process. See [how to add genes](./genotype_management.md#adding-genes-info).
 * **Term name:** a GO term describing the biological process.
-    * Start typing a molecular function in the search box. If you do not find the precise function you are looking for, choose a broad term (e.g. cell cycle, transport) that can be refined later.
+    * Start typing a process in the search box. If you do not find the precise process you are looking for, choose a broad term (e.g. cell cycle, transport) that can be refined later.
     * Click the chosen term, and verify that the displayed definition describes the phenotype you want to annotate. There is sometimes a "Comment" section with extra tips for annotation.
     * If the blue button reads `Next`, click it and see if you can find a more specific term that the one you originally selected. If so, select it and do as before.
     * Otherwise, click `Finish`.
@@ -33,6 +33,7 @@ On the `Quick Links` list, click on `GO biological process` to open a window tha
     * **Links to biological processes:** `happens during` can be used to indicate that the biological process takes place during a cell cycle phase or cellular response to stimulus . For example, the transcription factor atf1 participates in "positive regulation of transcription by RNA polymerase II" during "cellular response to oxidative stress".
     * **Links to a cellular component:** `occurs in` can be used to connect a few processes like endocytosis can be linked to the cellular location where they take place.
     * **Links to sequence ontology terms**: `occurs at` indicates the type of DNA region where the process happens. For example, the "positive regulation of transcription by RNA polymerase II" by ste11 transcription factor occurs at promoters with TR boxes.
+    * **Modified form:** sometimes, only a certain modified form of the gene product (e.g. phosphorylated) participates in the biological process. This is very valuable information, but requires a PR ontology term to exist for the modified version of the protein, which is rare. You can include this information in the comment section (e.g. write: "phosphorylated form").
     * You can make several annotations with the same biological process and gene, with different extensions:
         * To link it to several gene products (e.g. different substrates of a kinase).
         * To indicate that a gene is involved in the same biological process during different cellular responses to stimuli.

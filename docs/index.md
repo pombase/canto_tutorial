@@ -22,8 +22,6 @@ This site contains a step-by-step video and text guide for curating a paper usin
 
     <img src="assets/activate_advanced_mode.png" alt="activating advanced mode by clicking on the top right gear icon">
 
-* If you are unfamiliar with what annotation means, and how ontology terms are used for this, visit our [brief intro to annotation](./intro_annotation.md).
-
 ## Creating annotations
 
 Depending on the publication, you may be able to add different types of annotations, follow the links below to see videos and text showing how to do it:

@@ -51,7 +51,6 @@ nav:
     - GO Biological Process: go_BP.md
     - GO Cellular Component: go_CC.md
   - Other:
-    - Introduction to annotation: intro_annotation.md
     - Requesting to curate a paper: request_curation_session.md
     - Productivity tricks: productivity.md
     - Describing alleles: describing_alleles.md
