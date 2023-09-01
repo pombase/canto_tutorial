@@ -24,7 +24,7 @@ On the `Quick Links` list, click on `Phenotype` to open a window that requires y
       * If the blue button reads `Next`, click it and see if you can find a more specific term that the one you originally selected. If so, select it and do as before.
       * Otherwise, click `Finish`.
       * If you do not find the term you require, select a broader term, and request a new one clicking on `Suggest a new term` on the right side of the text box.
-  * **Annotation extension:** this field appears once you have selected a term describing the phenotype, always click the `Add` button to see if you can specify:
+  * **Annotation extension:** this field appears once you have selected a phenotype term. Always click the `Add` button to see if you can specify:
       * **Penetrance:** proportion of cells in the population that show the phenotype, can be a qualitative value or a percentage.
       * **Severity:** qualitative value to capture the strength of the phenotype. This is specially useful when several mutants show the same phenotype with different strength (e.g. cells being elongated).
       * **Others:** certain terms allow for other extensions. In general they are self-explaining, but here some important clarifications:

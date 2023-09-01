@@ -1,3 +1,4 @@
+
 // A simple script that displays a random did you know message at the footer
 
 const allMessages = [
@@ -17,3 +18,11 @@ const message = document.createElement('p')
 message.innerHTML = '<strong>Did you know?</strong> 🤔 ' + randomMessage
 
 footer.appendChild(message)
+
+// The template is a bit limited in what it allows you to edit, so this
+// is a simple workaround to replace the icon by a button with text
+
+const editIcon = document.querySelector('a[title="Edit this page"]')
+const editMessage = document.createElement('span')
+editMessage.textContent = 'Found a mistake? Fix it in on GitHub!'
+editIcon.insertBefore(editMessage, editIcon.firstChild)
