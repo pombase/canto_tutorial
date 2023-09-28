@@ -42,3 +42,13 @@ Depending on the publication, you may be able to add different types of annotati
 ## Other useful links
 
 * [Productivity](./productivity.md): save time in sessions with a lot of annotations.
+
+## Funding
+
+This work was funded by the [ELIXIR-UK: FAIR Data Stewardship](https://fellowship.elixiruknode.org/) training UKRI award (MR/V038966/1).
+
+<div class="logos">
+    <img src="assets/ELIXIR-UK_logo.svg" style="height: 200px">
+    <img src="assets/ukri-logo.svg" style="height: 200px">
+    <img src="assets/emblem-fellowship.png" style="height: 200px">
+</div>
