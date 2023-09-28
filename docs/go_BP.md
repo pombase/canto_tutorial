@@ -15,9 +15,11 @@ hide:
 
 <div class="video-sizer">
     <div class="video-wrapper">
-    <iframe src="https://www.youtube.com/embed/KY7ev8IEG00" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/SwZSb0oG6hI" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
+
+## Making an annotation
 
 On the `Quick Links` list, click on `GO biological process` to open a window that requires you to indicate:
 

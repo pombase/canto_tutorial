@@ -35,3 +35,7 @@ Full documentation on the theme and static site generator used (Material for MkD
 ## Content license
 
 The content of this website are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0).
+
+## Contributing
+
+See [contributing.md](./docs/contributing.md).

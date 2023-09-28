@@ -25,6 +25,8 @@ hide:
 
 !!! warning "These are rules for allele names, not descriptions!"
 
+These naming rules are fully detailed in [Lera-Ramírez et al. 2023](https://doi.org/10.1093/genetics/iyad143).
+
 <table>
 <tbody>
 <tr>
@@ -171,5 +173,3 @@ hide:
 </tbody>
 </table>
 <p>&nbsp;</p>
-
-<!-- TODO add paper reference -->

@@ -24,18 +24,20 @@ This site contains a step-by-step video and text guide for curating a paper usin
 
 ## Creating annotations
 
-Depending on the publication, you may be able to add different types of annotations, follow the links below to see videos and text showing how to do it:
+Depending on the publication, you may be able to add different types of annotations (we recommend this order). Follow the links below to see videos and text showing how to do it:
 
+* [Adding genotypes](./genotype_management.md).
+* [Phenotypes](./phenotypes.md)
+* [Genetic interaction](./genetic_interaction.md): rescues, synthetic lethality, etc.
+* [Physical interaction](./physical_interaction.md): for protein and RNA molecules.
+* [Protein modification](./protein_modification.md): phosphorylations, palmitoylation, etc.
+* [Protein sequence feature or motif](./protein_sequence_feature.md): residue range where a certain sequence feature is present (e.g. signal peptide).
+* [Wild-type RNA or protein levels](./rna_protein_level.md): gene expression during a cell cycle phase, response to stimulus (e.g. heat response) or in presence of a drug.
 * Gene Ontology:
     * [Molecular Function](./go_MF.md): single-step activities such as `kinase activity` or `transporter activity`.
     * [Biological Process](./go_BP.md): a series of functions with a common goal such as `MAPK cascade` or `cytokinesis`.
     * [Cellular Component](./go_CC.md): location where the gene product can be found, and what complexes it is part of, for instance `nucleus` or `fatty acid synthase complex`.
-* [Phenotypes](./phenotypes.md)
-* [Protein modification](./protein_modification.md): phosphorylations, palmitoylation, etc.
-* [Wild-type RNA or protein levels](./rna_protein_level.md): gene expression during a cell cycle phase, response to stimulus (e.g. heat response) or in presence of a drug.
-* [Physical interaction](./physical_interaction.md): for protein and RNA molecules.
-* [Genetic interaction](./genetic_interaction.md): rescues, synthetic lethality, etc.
-* [Protein sequence feature or motif](./protein_sequence_feature.md): residue range where a certain sequence feature is present (e.g. signal peptide).
+
 
 ## Other useful links
 
