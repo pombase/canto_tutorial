@@ -26,7 +26,7 @@ This site contains a step-by-step video and text guide for curating a paper usin
 
 Depending on the publication, you may be able to add different types of annotations (we recommend this order). Follow the links below to see videos and text showing how to do it:
 
-* [Adding genotypes](./genotype_management.md).
+* [Genotypes](./genotype_management.md)
 * [Phenotypes](./phenotypes.md)
 * [Genetic interaction](./genetic_interaction.md): rescues, synthetic lethality, etc.
 * [Physical interaction](./physical_interaction.md): for protein and RNA molecules.
