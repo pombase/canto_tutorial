@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-!!! info "To make phenotype annotations, you need to add genotypes first: see [how to add genotypes](./genes_alleles_genotypes.md)"
+!!! info "To make phenotype annotations, you need to add genotypes first: see [how to add genotypes](./genotype_management.md)"
 
 ## Video summary
 
@@ -17,7 +17,7 @@ hide:
 
 On the `Quick Links` list, click on `Phenotype` to open a window that requires you to indicate:
 
-  * **Genotype:** you can choose from the genotypes added to the session from a dropdown (see [how to add genotypes](./genes_alleles_genotypes.md)). Click on the magnifying glass on the right to use a search box instead of a drop-down menu.
+  * **Genotype:** you can choose from the genotypes added to the session from a dropdown (see [how to add genotypes](./genotype_management.md)). Click on the magnifying glass on the right to use a search box instead of a drop-down menu.
   * **Term name:** a FYPO term describing the phenotype associated with the genotype you selected above.
       * Start typing a phenotype in the search box. If you do not find the precise phenotype you are looking for, choose a broad term (e.g. abnormal spindle) that can be refined later.
       * Click the chosen term, and verify that the displayed definition describes the phenotype you want to annotate. There is sometimes a "Comment" section with extra tips for annotation.
