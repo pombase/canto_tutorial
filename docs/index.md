@@ -45,7 +45,7 @@ Depending on the publication, you may be able to add different types of annotati
 
 ## Funding
 
-This work was funded by the [ELIXIR-UK: FAIR Data Stewardship](https://fellowship.elixiruknode.org/) training UKRI award (MR/V038966/1).
+This Canto documentation project was funded by the [ELIXIR-UK: FAIR Data Stewardship](https://fellowship.elixiruknode.org/) training UKRI award (MR/V038966/1).
 
 <div class="logos">
     <img src="assets/ELIXIR-UK_logo.svg" style="height: 200px">
