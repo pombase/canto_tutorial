@@ -6,7 +6,7 @@ version = "0.1.0"
 package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.12"
 mkdocs = "^1.5.2"
 mkdocs-material = "^9.2.5"
 requests = "^2.31.0"
