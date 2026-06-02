@@ -21,7 +21,7 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: |
-          apt-get install libxml2-dev libxslt-dev python-dev
+          sudo apt-get install libxml2-dev libxslt-dev python-dev
           python -m pip install --upgrade pip
           pip install poetry
           poetry config virtualenvs.create false
