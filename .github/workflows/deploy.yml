@@ -24,5 +24,7 @@ jobs:
           PATH=$HOME/.venv/bin/:$PATH
           sudo apt-get install libxml2-dev libxslt-dev python3-dev
           sudo apt-get install python3-pip python3-poetry mkdocs
+          sudo apt-get install mkdocs-include-markdown-plugin mkdocs-material-extensions mkdocs-material
+          sudo apt-get install python3-markdown-exec python3-pymdownx
           poetry install
           mkdocs gh-deploy --force
