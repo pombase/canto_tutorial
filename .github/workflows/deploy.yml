@@ -22,7 +22,7 @@ jobs:
             mkdocs-material-
       - run: |
           sudo apt-get install libxml2-dev libxslt-dev python3-dev
-          sudo apt-get python3-pip python3-poetry
+          sudo apt-get install python3-pip python3-poetry
           poetry config virtualenvs.create false
           poetry install
           mkdocs gh-deploy --force
