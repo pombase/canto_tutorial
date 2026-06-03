@@ -58,7 +58,7 @@ If your article does not contain any type of data that can be curated in Canto, 
 <p style="text-align:center"><img src="assets/no_expt.png"></p>
 
           
-After you click `Submit to curators`, you will be be provided a text box in which you can enter any additional comments you would like to share with the curators.  
+After you click `Submit to curators`, you will be provided a text box in which you can enter any additional comments you would like to share with the curators.  
 
 ## Other useful links
 
