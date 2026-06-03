@@ -10,14 +10,16 @@ This site contains a step-by-step video and text guide for curating a paper usin
 ## Getting started
 
 * Click on the email you have received, this should open Canto in your browser.
-* Click on `Start curating`.
+* Click on `Start curating`. If you want to delegate curation to someone else, click `Reassign paper”` 
+Note: you can also begin curation and then reassign a session later; there is a `Reassign` button in the upper right corner of the curation summary page.
 * You will be required to log in. Enter your information and click `Continue`.
 * In the next page, you can add the list of genes that are mentioned in the paper and that you will be using for annotations later.
     * You can add multiple genes separated by any spacer (space, commas, line breaks).
     * You can refer to genes by their systematic id (SPAC3G9.12), primary name (peg1) or a synonym (cls1).
-    * If a gene name is also the synonym of another gene (e.g. psu1), you will be asked to provide a primary name for that gene.
-    * You can add genes later, so no need to include an exhaustive list at this point.
+    * If a gene name is also the synonym of another gene (e.g. psu1), you will be asked to provide a systematic ID for that gene.
+    * You can add genes later, so you don't need to include an exhaustive list at this point.
 * You will then be asked to double-check the list of genes, and then you can proceed to curating your paper.
+* If the paper does not mention individual genes, check the box labeled `This paper does not contain any gene-specific information`. You can then directly complete the session by clicking `Continue` and then `Finish`.
 * The tutorials in this page use Canto advanced mode, it can be activated as shown below:
 
     <img src="assets/activate_advanced_mode.png" alt="activating advanced mode by clicking on the top right gear icon">
@@ -38,6 +40,18 @@ Depending on the publication, you may be able to add different types of annotati
     * [Biological Process](./go_BP.md): a series of functions with a common goal such as `MAPK cascade` or `cytokinesis`.
     * [Cellular Component](./go_CC.md): location where the gene product can be found, and what complexes it is part of, for instance `nucleus` or `fatty acid synthase complex`.
 
+Please note that you should only curate information supported by experiments presented in the paper. If you want to capture other information not directly shown in a particular paper, please contact the curators to discuss how to proceed.
+You do not need to complete the whole curation in one session. All curated information is preserved, you can click on `Pause curation` and come back to the URL provided in the invitation email at any time. 
+Use the `Contact curators` link at any point if you get stuck, or have any questions.
+
+## Finishing and submitting
+
+Once you have finished entering data from your paper, click the `Submit to curators`.
+
+If your article does not contain any type of data that can be curated in Canto, check the `No experimental results to add?` box and select a reason from the pulldown menu that appears:
+          <img src="assets/no_expt.png">
+          
+After you click `Submit to curators`, you will be be provided a text box in which you can enter any additional comments you would like to share with the curators.  
 
 ## Other useful links
 
