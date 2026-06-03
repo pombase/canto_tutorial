@@ -10,8 +10,7 @@ This site contains a step-by-step video and text guide for curating a paper usin
 ## Getting started
 
 * Click on the email you have received, this should open Canto in your browser.
-* Click on `Start curating`. If you want to delegate curation to someone else, click `Reassign paper”` 
-Note: you can also begin curation and then reassign a session later; there is a `Reassign` button in the upper right corner of the curation summary page.
+* Click on `Start curating`. If you want to delegate curation to someone else, click `Reassign paper”`. Note: you can also begin curation and reassign the session later; there is a `Reassign` button in the upper right corner of the curation summary page.
 * You will be required to log in. Enter your information and click `Continue`.
 * In the next page, you can add the list of genes that are mentioned in the paper and that you will be using for annotations later.
     * You can add multiple genes separated by any spacer (space, commas, line breaks).
@@ -41,15 +40,18 @@ Depending on the publication, you may be able to add different types of annotati
     * [Cellular Component](./go_CC.md): location where the gene product can be found, and what complexes it is part of, for instance `nucleus` or `fatty acid synthase complex`.
 
 Please note that you should only curate information supported by experiments presented in the paper. If you want to capture other information not directly shown in a particular paper, please contact the curators to discuss how to proceed.
+
 You do not need to complete the whole curation in one session. All curated information is preserved, you can click on `Pause curation` and come back to the URL provided in the invitation email at any time. 
-Use the `Contact curators` link at any point if you get stuck, or have any questions.
+
+Use the `Contact curators` link at any point if you get stuck, or have any question.
 
 ## Finishing and submitting
 
 Once you have finished entering data from your paper, click the `Submit to curators`.
 
 If your article does not contain any type of data that can be curated in Canto, check the `No experimental results to add?` box and select a reason from the pulldown menu that appears:
-          <img src="assets/no_expt.png">
+
+<p style="text-align:center"><img src="assets/no_expt.png"></p>
           
 After you click `Submit to curators`, you will be be provided a text box in which you can enter any additional comments you would like to share with the curators.  
 
